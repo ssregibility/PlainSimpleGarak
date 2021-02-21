@@ -5,7 +5,7 @@ TODO
 ## Requirements
 
 - Python 3.6.9
-- pytorch 1.7.0+
+- Pytorch 1.7.0+
 - CUDA 10.1+
 
 To install requirements:
