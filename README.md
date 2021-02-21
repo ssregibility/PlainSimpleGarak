@@ -1,4 +1,4 @@
-# Plain Simple Garak
+# Plain Simple Garak - A Quote Generator
 
 TODO
 
