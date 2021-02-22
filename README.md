@@ -27,7 +27,7 @@ PlainSimpleGarak.ipynb should be used for now - will be changed soon.
 
 ## Pretrained Model
 
-Will be uploaded soon.
+https://drive.google.com/file/d/1u0EUo2XYVCoLl2PtLgp77L3wkTeBGjOU/view?usp=sharing
 
 ## Examples
 
