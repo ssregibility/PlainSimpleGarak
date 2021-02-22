@@ -1,6 +1,6 @@
 # Plain Simple Garak - A Quote Generator
 
-Plain Simple Garak is a GRU quote generation model - 
+Plain Simple Garak is a GRU quote generation model that the goal is generating texts similar to [Garak](https://memory-alpha.fandom.com/wiki/Elim_Garak, "Memory Alpha")'s quotes.
 
 ## Requirements
 
@@ -31,13 +31,23 @@ Will be uploaded soon.
 ## Examples
 
 ```
-INITIAL INPUT: doctor bashir lying is a skill
-GENERATED SEQUENCE: doctor bashir lying is a skill like any other if you want to maintain a level of excellence you have to practice constantly
+INITIAL INPUT: spy? i 'm plain and simple
+GENERATED SEQUENCE: spy ? i 'm plain and simple garak , captain , i 've been in this conversation . but i 'd rather not be ever seen the head of the agency ever , even for the moment . END
 ```
 
 ```
-INITIAL INPUT: i am not a spy doctor
-GENERATED SEQUENCE: i am not a spy doctor you would tell commander sisko anything i might happend to say in passing about gul dukat is inappropriate and unacceptable
+INITIAL INPUT: spy? i 'm plain and simple
+GENERATED SEQUENCE: spy ? i 'm plain and simple garak . i never know what might happen . END
+```
+
+```
+INITIAL INPUT: i'm not a spy, doctor .
+GENERATED SEQUENCE: i 'm not a spy doctor . i 'm sure you 'll derive years of enjoyment trying to determine exactly who they are . END
+```
+
+```
+INITIAL INPUT: i'm not a spy, doctor .
+GENERATED SEQUENCE: i 'm not a spy doctor . i always said your shortsightedness would be your downfall . END
 ```
 
 ## Contributing
