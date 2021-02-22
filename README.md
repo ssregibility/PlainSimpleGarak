@@ -1,6 +1,6 @@
 # Plain Simple Garak - A Quote Generator
 
-Plain Simple Garak is a BiGRU text generation model that the goal is generating texts similar to [Garak](https://memory-alpha.fandom.com/wiki/Elim_Garak, "Memory Alpha")'s quotes.
+Plain Simple Garak is a BiGRU text generation model that the goal is generating texts similar to [Garak](https://memory-alpha.fandom.com/wiki/Elim_Garak, "Memory Alpha")'s quotes.   
 The model contains two seperate GRU layers and a shared Embedding layer. For each input, the model randomly selects which layer should be used - meaning that the text generated will be always different for the same input.
 
 ## Requirements
