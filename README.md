@@ -44,6 +44,6 @@ GENERATED SEQUENCE: i am not a spy doctor you would tell commander sisko anythin
 
 There is no way to contribute to the code yet - however, this is subject to be changed.
 
-## Note
+## Attribution
 
-TNG.csv dataset is from https://github.com/RTrek/startrekTNGdataset
+Uses TNG.csv from https://github.com/RTrek/startrekTNGdataset
