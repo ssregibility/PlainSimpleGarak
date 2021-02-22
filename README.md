@@ -46,4 +46,4 @@ There is no way to contribute to the code yet - however, this is subject to be c
 
 ## Attribution
 
-Uses TNG.csv from https://github.com/RTrek/startrekTNGdataset
+Uses TNG.csv by RMHogervorst from https://github.com/RTrek/startrekTNGdataset
