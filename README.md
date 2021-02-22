@@ -7,8 +7,8 @@ TODO
 - Python 3.6.9
 - Pytorch 1.7.0+
 - CUDA 10.1+
-- nltk
-- Pandas
+- nltk 3.0+
+- Pandas 1.0+
 
 To install requirements:
 
