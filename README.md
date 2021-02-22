@@ -4,7 +4,7 @@ TODO
 
 ## Requirements
 
-- Python 3.6.9
+- Python 3.6.9+
 - Pytorch 1.7.0+
 - CUDA 10.1+
 - nltk 3.0+
