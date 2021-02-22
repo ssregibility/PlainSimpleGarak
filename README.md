@@ -50,6 +50,10 @@ GENERATED SEQUENCE: i 'm not a spy doctor . i 'm sure you 'll derive years of en
 INITIAL INPUT: i'm not a spy, doctor .
 GENERATED SEQUENCE: i 'm not a spy doctor . i always said your shortsightedness would be your downfall . END
 ```
+```
+INITIAL INPUT: doctor bashir
+GENERATED SEQUENCE: doctor bashir may provide them with an unfortunate misunderstanding . i would n't have the time to make a good idea . END
+```
 
 ## Contributing
 
