@@ -19,11 +19,11 @@ pip3 install -r requirements.txt
 
 ## Model Training
 
-PlainSimpleGarak.ipynb should be used for now - will be changed soon.
+PlainSimpleGarak.ipynb should be used for training at the moment - will be changed soon.
 
 ## Text Generation
 
-PlainSimpleGarak.ipynb should be used for now - will be changed soon.
+For now, use PlainSimpleGarak_GenerateText.ipynb. seperate .py script file will be uploaded soon.
 
 ## Pretrained Model
 
