@@ -1,6 +1,6 @@
 # Plain Simple Garak - A Quote Generator
 
-TODO
+Plain Simple Garak is a GRU quote generation model - 
 
 ## Requirements
 
@@ -43,3 +43,7 @@ GENERATED SEQUENCE: i am not a spy doctor you would tell commander sisko anythin
 ## Contributing
 
 There is no way to contribute to the code yet - however, this is subject to be changed.
+
+## Note
+
+TNG.csv dataset is from https://github.com/RTrek/startrekTNGdataset
