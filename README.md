@@ -7,6 +7,8 @@ TODO
 - Python 3.6.9
 - Pytorch 1.7.0+
 - CUDA 10.1+
+- nltk
+- Pandas
 
 To install requirements:
 
@@ -16,11 +18,15 @@ pip3 install -r requirements.txt
 
 ## Model Training
 
-NOT IMPLEMENTED YET, USE PlainSimpleGarak.ipynb INSTEAD
+PlainSimpleGarak.ipynb should be used for now - will be changed soon.
 
 ## Text Generation
 
-NOT IMPLEMENTED YET, USE PlainSimpleGarak.ipynb INSTEAD
+PlainSimpleGarak.ipynb should be used for now - will be changed soon.
+
+## Pretrained Model
+
+Will be uploaded soon.
 
 ## Examples
 
