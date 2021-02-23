@@ -19,11 +19,13 @@ pip3 install -r requirements.txt
 
 ## Model Training
 
-PlainSimpleGarak.ipynb should be used for training at the moment - will be changed soon.
+Upload PlainSimpleGarak.ipynb to your Google Drive for training.   
+.py script file will be uploaded soon.
 
 ## Text Generation
 
-For now, use PlainSimpleGarak_GenerateText.ipynb. seperate .py script file will be uploaded soon.
+Upload PlainSimpleGarak_GenerateText.ipynb, saved_dicts and a prtrained model below to your Google Drive for text generation.   
+.py script file will be uploaded soon.
 
 ## Pretrained Model
 
